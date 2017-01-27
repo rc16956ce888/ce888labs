@@ -20,13 +20,11 @@ Median : 32.000000
 Var    : 36.831918
 Std    : 6.068931
 
-Bootstraping the American Cars data we get the following plot
-![logo](./bootstrap_confidence_currentFleet.png?raw=true)
+Bootstraping the Japanese Cars Standard Deviation give a the following bounds
+upper Bound   : 6.9094452907068673)
+lower Bound   : 5.1489572668311254
 
-
-Bootstraping the Japanese Cars data we get the following plot
-![logo](./bootstrap_confidence_newFleet.png?raw=true)
-
-This gives us confidence in saying that the Japanese cars are more efficient.
-
+Bootstraping the American Cars Standard Deviation give a the following bounds
+upper Bound   : 6.9338545004540215)
+lower Bound   : 5.8071471217948147)
 

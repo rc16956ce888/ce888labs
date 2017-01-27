@@ -1,0 +1,6 @@
+Current Fleet
+('upper Bound', 6.9338545004540215)
+('lower Bound', 5.8071471217948147)
+New Fleet
+('upper Bound', 6.9094452907068673)
+('lower Bound', 5.1489572668311254)
