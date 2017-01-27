@@ -11,8 +11,8 @@ Var    : 40.983113
 Std    : 6.401805
 
 The scatter plot and histograms of the mpg of japanese cars is given below
-![logo](./scaterplotNew_fleet.png?raw=true)
-![logo](./histogramNew_fleet.png?raw=true)
+![logo](./scaterplotNew_Fleet.png?raw=true)
+![logo](./histogramNew_Fleet.png?raw=true)
 
 Japanese Cars Mpg
 Mean   : 30.481013
